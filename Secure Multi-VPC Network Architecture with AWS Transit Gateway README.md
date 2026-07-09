@@ -1,4 +1,4 @@
-# Secure Multi-VPC Network Architecture with AWS Transit Gateway
+# Secure Multi-VPC Network Architecture with AWS Transit Gateway 
 
 A hands-on AWS networking lab demonstrating enterprise-grade VPC segmentation, centralized routing, and least-privilege network access controls using Transit Gateway. Built and validated entirely via the AWS Console with live traffic tests proving the security boundaries.
 
